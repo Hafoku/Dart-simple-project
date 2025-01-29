@@ -1,0 +1,68 @@
+{
+   "checksum": "41bdbed65cf2c6f414f31d1bf49fe2bf",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13375300155372696",
+            "date_last_used": "0",
+            "guid": "cd62526d-ba8c-4e4a-a11e-8f96ac9d2741",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Oasis",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://oasis.decart.ai/starting-point?journey=Desert+Expanse",
+            "visit_count": 1
+         }, {
+            "date_added": "13375382886653432",
+            "date_last_used": "0",
+            "guid": "054fa9b4-bf9e-42c6-898d-3e1ed44bcae0",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Oasis",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://oasis.decart.ai/starting-point?journey=Village+Outpost",
+            "visit_count": 1
+         } ],
+         "date_added": "13381435849923358",
+         "date_last_used": "0",
+         "date_modified": "13375382886653432",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13381435849923361",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13381435849923363",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCHUcAGuUAQAAKg4QABgBIAAoBjAAOABAABIAKhhmZi9vQi9rZWRCUzVVQlZ3d0l5MFVRPT1IA6AGDBKsAQgHEqcBChxPQmFoMGlyU0ZhVHN4blg5Snh0TmxOWnlnT1k9EiQwNTRmYTliNC1iZjllLTQyYzYtODk4ZC0zZTFlZDQ0YmNhZTAYACAAKAAw+/TukbAyOOD27pGwMkDg9u6RsDJKHFM0NTZhL1NNZ3VUNUh4b1FOeHQrMDBnV2grST1aHiIcendPL3J2U1dxMUVnNXRvMjREbHYrb3IvZXJzPWWKt405wj4CYAUSrAEIBhKnAQocSWs4UkZLV1hCdU9FR0NpRnNQRjgvMlQyZXU0PRIkY2Q2MjUyNmQtYmE4Yy00ZTRhLWExMWUtOGY5NmFjOWQyNzQxGAAgACgAMJiwteqvMjjvsbXqrzJA77G16q8yShw2MUxtbWZxMEk0ME5wYnJldiszNCtZMnBDUjA9Wh4iHG1EU2l1ejd4bTlBUCt4Nng4cEtacm5jcEQ0Yz1lireNOcI+AmAFEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGQ3MGY3Y2IyLTNlNmUtNTc4OC1hM2E5LWY0OWJjN2Q2NWZjNxgAIAAoADCqyP6MmDE46M7+jJgxQOjO/oyYMUocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQ2YWQyYTM1OC0yMTNkLTVjNTctYTRkZi0zZGVmMTc4MzE4MmYYACAAKAAwqcj+jJgxONLO/oyYMUDSzv6MmDFKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkZTkxNGZhM2UtMjBjMC01NWE0LTg1ZjktODRjNGIxMGE5OTdlGAAgACgAMK/I/oyYMTiVz/6MmDFAlc/+jJgxShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
